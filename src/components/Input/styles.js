@@ -25,5 +25,7 @@ export const InputContainer = styled.div`
         font-size: 24px;
         font-family: 'Roboto';
         color: #FFFFFF;
+        /* Alinha o texto do input à direita */
+        text-align: right;
     }
 `
